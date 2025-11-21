@@ -1,0 +1,5 @@
+streamlit
+requests
+python-dotenv
+azure-cognitiveservices-speech
+pydub

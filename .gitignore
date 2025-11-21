@@ -1,0 +1,17 @@
+# Do NOT upload your keys
+.env
+
+# Python & Streamlit
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.temp
+*.log
+*.wav
+*.mp3
+
+# VS Code
+.vscode/
